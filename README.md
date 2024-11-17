@@ -13,4 +13,10 @@ Architecture: Clean Architecture, Repository & Unit of Work Patterns
 
 🌱 Currently Learning: I’m currently expanding my knowledge of cloud services (AWS), Docker, and working on improving my frontend development skills.
 
+
+🌟 **Notable Projects:**
+- **[Inventory Management System]()**: A fully-fledged system built with ASP.NET Core for managing inventory, designed using clean architecture principles.
+- **[Another Project](link-to-project)**: A project focused on API development using .NET, demonstrating my backend skills.
+
+
 🔗 Let’s Connect: Feel free to check out my repositories, and don't hesitate to reach out if you have any questions or would like to collaborate!
