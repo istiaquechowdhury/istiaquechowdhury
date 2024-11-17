@@ -21,9 +21,8 @@ Architecture: Clean Architecture, Repository & Unit of Work Patterns
 🌟 **Notable Projects:**
 - **[Inventory Management System](https://github.com/istiaquechowdhury/DevSkillSawariInventory)**: A fully-fledged system built with ASP.NET Core for managing inventory, designed using clean architecture principles.
 
-📧 **Email**: [your.email@example.com](mailto:istiaquechowdhury430@gmail.com)
-
-🌐 **LinkedIn**: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/istiaquechowdhury430/))
+- 📧 **Email**: [istiaquechowdhury430@gmail.com](mailto:istiaquechowdhury430@gmail.com)
+- 🌐 **LinkedIn**: [linkedin.com/in/istiaquechowdhury430](https://www.linkedin.com/in/istiaquechowdhury430/)
 
 
 🔗 Let’s Connect: Feel free to check out my repositories, and don't hesitate to reach out if you have any questions or would like to collaborate!
