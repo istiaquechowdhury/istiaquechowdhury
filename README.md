@@ -15,7 +15,7 @@ Architecture: Clean Architecture, Repository & Unit of Work Patterns
 
 
 🌟 **Notable Projects:**
-- **[Inventory Management System]()**: A fully-fledged system built with ASP.NET Core for managing inventory, designed using clean architecture principles.
+- **[Inventory Management System](https://github.com/istiaquechowdhury/DevSkillSawariInventory)**: A fully-fledged system built with ASP.NET Core for managing inventory, designed using clean architecture principles.
 - **[Another Project](link-to-project)**: A project focused on API development using .NET, demonstrating my backend skills.
 
 
