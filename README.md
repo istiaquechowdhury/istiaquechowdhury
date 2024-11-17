@@ -1,14 +1,16 @@
-## Hi there 👋
+About Me
+👋 Hi, I’m Istiaque Chowdhury, a passionate .NET developer with a focus on backend technologies. I specialize in building scalable, maintainable applications using C#, ASP.NET Core, Entity Framework, and MSSQL. While my core expertise lies in backend development, I also have experience working with frontend technologies such as HTML, CSS, and JavaScript.
 
-**istiaquechowdhury/istiaquechowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Technologies & Tools:
 
-Here are some ideas to get you started:
+Backend: C#, ASP.NET Core MVC, Entity Framework, MSSQL
+Frontend: HTML, CSS, Bootstrap, JavaScript, jQuery
+Containerization: Docker
+Cloud Services: AWS 
+Version Control: Git, GitHub
+Architecture: Clean Architecture, Repository & Unit of Work Patterns
+🚀 What I Do: I focus on building robust and scalable backend systems, and I love working on projects that require designing efficient solutions. I’m also open to improving my frontend skills as needed and contribute to full-stack development when necessary.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 Currently Learning: I’m currently expanding my knowledge of cloud services (AWS), Docker, and working on improving my frontend development skills.
+
+🔗 Let’s Connect: Feel free to check out my repositories, and don't hesitate to reach out if you have any questions or would like to collaborate!
