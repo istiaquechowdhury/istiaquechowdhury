@@ -1,4 +1,4 @@
-About Me
+
 👋 Hi, I’m Istiaque Chowdhury
 
 A passionate .NET developer with a focus on backend technologies. I specialize in building scalable, maintainable applications using C#, ASP.NET Core, Entity Framework, and MSSQL. While my core expertise lies in backend development, I also have experience working with frontend technologies such as HTML, CSS, and JavaScript.
