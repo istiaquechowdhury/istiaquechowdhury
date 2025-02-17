@@ -5,12 +5,12 @@ A passionate .NET developer with a focus on backend technologies. I specialize i
 
 🔧 Technologies & Tools:
 
-Backend: C#, ASP.NET Core MVC, Entity Framework, MSSQL
-Frontend: HTML, CSS, Bootstrap, JavaScript, jQuery
-Containerization: Docker
-Cloud Services: AWS 
-Version Control: Git, GitHub
-Architecture: Clean Architecture, Repository & Unit of Work Patterns
+Backend: C#, ASP.NET Core MVC, Entity Framework, MSSQL.
+Frontend: HTML, CSS, Bootstrap, JavaScript, jQuery.
+Containerization: Docker.
+Cloud Services: AWS.
+Version Control: Git, GitHub.
+Architecture: Clean Architecture, Repository & Unit of Work Patterns.
 
 
 🚀 What I Do: I focus on building robust and scalable backend systems, and I love working on projects that require designing efficient solutions. I’m also open to improving my frontend skills as needed and contribute to full-stack development when necessary.
